@@ -1,0 +1,29 @@
+_repo: Criticisms-on--The-Origin-of-Species---13-From-The-Natural-History-Review-1864_2930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darwin, Charles, 1809-1882. On the origin of species'
+- !lcsh 'Evolution (Biology)'
+- !lcc 'QH'
+- GITenberg
+title: "Criticisms on \"The Origin of Species\"\r\nFrom 'The Natural History Review',\
+  \ 1864"
+url: http://www.gutenberg.org/ebooks/2930
